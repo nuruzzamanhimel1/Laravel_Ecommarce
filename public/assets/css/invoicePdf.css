@@ -1,0 +1,116 @@
+{margin:0; padding:0; outline:0;}
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+}
+
+
+.invoice_header_section {
+    background: #f5f2f2;
+    padding: 11px 30px;
+    /*overflow: hidden;*/
+}
+.invoice_header_section .header_right {
+   
+}
+.invoice_header_section .header_right h2 {
+    padding: 11px 0;
+}
+.invoice_header_section .header_right p {
+    padding: 0px 0;
+}
+.invoice_header_section .header_right span {
+    color: #19aba4;
+    font-weight: bold;
+}
+.invoice_header_section .header_left {
+  
+}
+.invoice_header_section .header_left img {
+    border: 4px solid #fff;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.invoice_section {
+    /*padding: 3px 45px;*/
+    height: 203px;
+}
+.invoice_section .invoice_right {
+    float: right;
+    padding: 69px 15px;
+}
+.invoice_section .invoice_right h1 {
+    font-size: 47px;
+    color: #ff8b14;
+    margin-bottom: 22px;
+    font-family: serif;
+}
+.invoice_section .invoice_right p{}
+
+.invoice_section .invoice_left {
+    float: left;
+    border-left: 7px solid #ff8b14;
+    padding-left: 11px;
+}
+.invoice_section .invoice_left h1 {
+    padding: 9px 0;
+    font-size: 34px;
+    font-weight: bold;
+}
+.invoice_section .invoice_left p {
+    /*padding: 16px 0;*/
+}
+.invoice_section .invoice_left p strong{}
+
+.product_table_section {
+    /*padding: 6px 46px;*/
+}
+.product_table_section .product_table_inner{}
+.product_table_section .product_table_inner h1 {
+    margin-bottom: 2px;
+}
+.product_table_section .product_table_inner table {
+    text-align: center;
+    margin: 0 auto;
+}
+.product_table_section .product_table_inner table thead {
+    background: #ff8b14;
+}
+.product_table_section .product_table_inner table thead tr th {
+    padding: 9px 30px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+.product_table_section .product_table_inner table thead tr th{}
+
+.product_table_section .product_table_inner table tbody{}
+.product_table_section .product_table_inner table tbody tr{}
+.product_table_section .product_table_inner table tbody tr td {
+    padding: 12px 2px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+}
+
+.invoice_thx_section {
+    /*padding: 81px 97px;*/
+}
+.invoice_thx_section .thx_left{float:left;}
+.invoice_thx_section .thx_left h5 {
+    color: #ff8b14;
+    font-size: 28px;
+}
+.invoice_thx_section .thx_right {
+    float: right;
+    margin-top: 100px;
+}
+.invoice_thx_section .thx_right p{}
+.invoice_thx_section .thx_right h5 {
+    font-size: 16px;
+    margin-top: 14px;
+    margin-left: 20px;
+    /*text-align: center;*/
+}
+

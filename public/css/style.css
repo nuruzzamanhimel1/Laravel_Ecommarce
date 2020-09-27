@@ -1,0 +1,51 @@
+/*Custorm Design..........*/ 
+html{
+    height: 100%;
+}
+body{
+    min-height: 100%;
+    position:relative;
+}
+.bg-light {
+    background-color: #3e96fe !important;
+}
+
+/*........ end ........*/
+
+.image_size {
+    width: 130px;
+    margin: 9px auto;
+}
+
+.footer_section {
+    background: #3e96fe;
+    padding: 16px 0px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+  
+}
+.main_content{
+	min-height: 480px;
+}
+
+.carousel_bg{    padding: 10px;
+    background: #ffabab;}
+ .pointer {
+    cursor: pointer;
+}
+
+/*............ Slider Css..............*/
+
+.carousel-indicators li {
+    width: 48px;
+    height: 10px;
+    
+    background-color: #f31667;
+   
+}
+.carousel-title {
+    font-size: 42px;
+    color: #ff2828;
+    text-transform: uppercase;
+}
